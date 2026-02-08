@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "月が綺麗な夜でした",
+  "base_artist": "esoragoto",
+  "createdAt": "2026-02-08T05:36:43.421463Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月が綺麗な夜でした",
+      "artist": "esoragoto",
+      "has_synced": false,
+      "path": "select/pl_01_月が綺麗な夜でした_esoragoto.txt"
+    }
+  ]
+}
